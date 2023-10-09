@@ -30,7 +30,7 @@ When Prateek is not immersed in the world of AI and Data Science, you can often 
 
 <!-- Connect section -->
 
-<h2>Connect with me </h3>
+<h2>Connect with him </h3>
     <p>
         <a href="www.linkedin.com/in/prateek-maithil-9bb07b214"><img src="https://img.shields.io/badge/-Prateek%20Maithil%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/prateek-maithil-9bb07b214" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/yaarprateek
