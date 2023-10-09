@@ -15,7 +15,7 @@ When Prateek is not immersed in the world of AI and Data Science, you can often 
 
 
 <!-- code gif-->
-<img align="center" alt="GIF" src="./code.gif" width="650" height="350" />
+<img align="center" alt="GIF" src="./code.gif" width="700" height="380" />
 
 - 😄 Currently delving into the fascinating realms of Data Science.
 
