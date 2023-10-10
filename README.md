@@ -2,7 +2,7 @@
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! This is Prateek </h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/prateek-maithil-9bb07b214">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/prateek-maithil-9bb07b214/">LinkedIn</a> •
   <a href="https://twitter.com/yaarprateek">X(formerly Twitter)</a>
 </p>
 
@@ -32,7 +32,7 @@ When Prateek is not immersed in the world of AI and Data Science, you can often 
 
 <h2>Connect with him </h3>
     <p>
-        <a href="www.linkedin.com/in/prateek-maithil-9bb07b214"><img src="https://img.shields.io/badge/-Prateek%20Maithil%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=www.linkedin.com/in/prateek-maithil-9bb07b214" alt="LinkedIn Badge"></a> 
+        <a href="https://www.linkedin.com/in/prateek-maithil-9bb07b214/"><img src="https://img.shields.io/badge/-Prateek%20Maithil%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=[www.linkedin.com/in/prateek-maithil-9bb07b214](https://www.linkedin.com/in/prateek-maithil-9bb07b214/)" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/yaarprateek
 /"><img src="https://img.shields.io/badge/-prateekfr-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/yaarprateek" alt="Twitter Badge"></a>
 
