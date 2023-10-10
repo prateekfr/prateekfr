@@ -62,6 +62,8 @@ When Prateek is not immersed in the world of AI and Data Science, you can often 
 
 <!-- GitHub section: END -->
 
+[![An image of @prateekfr's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/prateekfr)](https://holopin.io/@prateekfr)
+
 
 <!-- THE END -->
 
