@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prateek-maithil-9bb07b214/">LinkedIn</a> •
-  <a href="https://twitter.com/yaarprateek">X(formerly Twitter)</a>
+<!--   <a href="https://twitter.com/yaarprateek">X(formerly Twitter)</a> -->
 </p>
 
  <!-- About section -->
