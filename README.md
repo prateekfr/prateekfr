@@ -39,11 +39,11 @@ When I'm not deep in AI, you'll probably find me listening to music 🎵 or obse
 
 ## 🧠 What I'm Working On
 
-- 🎙️ **Voice AI Agents** — Multilingual, low-latency agents with voice cloning, running on vLLM/Ray Serve via Plivo
-- 🤖 **Agentic Pipelines** — Multi-agent systems using LangGraph, CrewAI, and custom orchestration for real business workflows
-- 👁️ **Computer Vision** — Production CV systems for road inspection, ANPR, and real-time violation detection
-- 🔍 **Agentic RAG** — Retrieval pipelines with Qdrant and Text2SQL achieving 94%+ answer accuracy
-- 🧪 **LLM Evaluation & Fine-tuning** — LLM-as-a-Judge, self-training loops, and cost-efficient fine-tuning on GPT-4o-mini
+- 🎙️ **Voice AI Agents** — Multilingual, low-latency agents with voice cloning, running on serving platforms via telephony services. 
+- 🤖 **Agentic Pipelines** — Multi-agent systems using LangGraph, CrewAI, and custom orchestration for real business workflows.
+- 👁️ **Computer Vision** — Production CV systems for road inspection, ANPR, and real-time violation detection.
+- 🔍 **Agentic RAG** — Retrieval pipelines with Qdrant and Text2SQL achieving 94%+ answer accuracy.
+- 🧪 **LLM Evaluation & Fine-tuning** — LLM-as-a-Judge, self-training loops, and cost-efficient fine-tuning on open and closed source models.
 
 ---
 
@@ -76,8 +76,8 @@ When I'm not deep in AI, you'll probably find me listening to music 🎵 or obse
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Kidney Disease Classification](https://github.com/prateekfr) | End-to-end deep learning system for kidney tumor detection from CT scans using VGG16 (89% acc), with full MLOps pipeline | TensorFlow · MLflow · DVC · Docker · AWS |
-| [Informer TimeSeries Forecasting](https://github.com/prateekfr) | Reproduced Informer Transformer from scratch in PyTorch for long-sequence time series forecasting (15% accuracy gain on ETT datasets) | PyTorch · Transformers |
+| [Kidney Disease Classification]([https://github.com/prateekfr](https://github.com/prateekfr/Kidney_Disease_Classification_DL)) | End-to-end deep learning system for kidney tumor detection from CT scans using VGG16 (89% acc), with full MLOps pipeline | TensorFlow · MLflow · DVC · Docker · AWS |
+| [Informer TimeSeries Forecasting]([https://github.com/prateekfr](https://github.com/prateekfr/informer-timeseries-forecasting)) | Reproduced Informer Transformer from scratch in PyTorch for long-sequence time series forecasting (Accuracy gain on ETT datasets) | PyTorch · Transformers |
 
 ---
 
@@ -94,7 +94,7 @@ When I'm not deep in AI, you'll probably find me listening to music 🎵 or obse
 
 If you're building in the **AI agents, voice AI, or production ML** space — or just want to talk cats and music — I'm always up for a conversation.
 
-📬 **[LinkedIn](https://www.linkedin.com/in/prateekmaithil/)** | 🐦 **[Twitter/X](https://twitter.com/yaarprateek)** | 📧 **[prateekmaithil@hotmail.com](mailto:prateekmaithil1572@gmail.com)** | 🎵 **[Apple Music](https://music.apple.com/profile/prateeek?ls)**
+📬 **[LinkedIn](https://www.linkedin.com/in/prateekmaithil/)** | 🐦 **[Twitter/X](https://twitter.com/yaarprateek)** | 📧 **[prateekmaithil1572@gmail.com](mailto:prateekmaithil1572@gmail.com)** | 🎵 **[Apple Music](https://music.apple.com/profile/prateeek?ls)**
 
 ---
 
