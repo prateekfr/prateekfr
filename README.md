@@ -76,8 +76,8 @@ When I'm not deep in AI, you'll probably find me listening to music 🎵 or obse
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Kidney Disease Classification]([https://github.com/prateekfr](https://github.com/prateekfr/Kidney_Disease_Classification_DL)) | End-to-end deep learning system for kidney tumor detection from CT scans using VGG16 (89% acc), with full MLOps pipeline | TensorFlow · MLflow · DVC · Docker · AWS |
-| [Informer TimeSeries Forecasting]([https://github.com/prateekfr](https://github.com/prateekfr/informer-timeseries-forecasting)) | Reproduced Informer Transformer from scratch in PyTorch for long-sequence time series forecasting (Accuracy gain on ETT datasets) | PyTorch · Transformers |
+| [Kidney Disease Classification](https://github.com/prateekfr/Kidney_Disease_Classification_DL) | End-to-end deep learning system for kidney tumor detection from CT scans using VGG16 (89% acc), with full MLOps pipeline | TensorFlow · MLflow · DVC · Docker · AWS |
+| [Informer TimeSeries Forecasting](https://github.com/prateekfr/informer-timeseries-forecasting) | Reproduced Informer Transformer from scratch in PyTorch for long-sequence time series forecasting (Accuracy gain on ETT datasets) | PyTorch · Transformers |
 
 ---
 
