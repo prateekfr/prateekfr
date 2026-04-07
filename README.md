@@ -1,80 +1,103 @@
-<!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! This is Prateek </h3>
+<!-- Header -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" />
+  Hey there, I'm Prateek
+</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prateek-maithil-9bb07b214/">LinkedIn</a> •
-<!--   <a href="https://twitter.com/yaarprateek">X(formerly Twitter)</a> -->
+  <a href="https://www.linkedin.com/in/prateekmaithil/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/yaarprateek">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat-square&logo=twitter" />
+  </a>
+  <a href="mailto:prateekmaithil1572@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://music.apple.com/profile/prateeek?ls">
+    <img src="https://img.shields.io/badge/Apple%20Music-Playlists-FA243C?style=flat-square&logo=apple-music&logoColor=white" />
+  </a>
 </p>
 
- <!-- About section -->
+---
+
+## 🤖 About Me
+
+<table border="0"><tr><td valign="top">
+
+I'm an **AI Engineer** based in Indore, India, pursuing an **M.Tech (Dual Degree) in AI and Data Science** from DAVV. I build production-grade AI systems — from voice agents and agentic pipelines to computer vision and RAG systems — that are fast, reliable, and actually useful.
+
+> *Currently building intelligent voice and interview AI at **[Fintervue](https://fintervue.com)** — engineering scalable multilingual Voice AI Agents with sub-300ms latency.*
+
+When I'm not deep in AI, you'll probably find me listening to music 🎵 or obsessing over cats 🐱.
+
+</td><td valign="top" width="340">
+<img src="./code.gif" width="340" height="185" />
+</td></tr></table>
 
 ---
-Welcome to Prateek's GitHub profile! Prateek is a passionate and dedicated student pursuing a degree in Engineering with a specialization in Artificial Intelligence and Data Science. This profile serves as a showcase of his work, projects, and contributions in the field of AI and Data Science.
 
-When Prateek is not immersed in the world of AI and Data Science, you can often find him indulged in music. If you also like listening to music you can find his playlists <a href="https://open.spotify.com/user/hb8t3me5yh4k4u54hrswov5xf?si=72f83d044b6e4998">here</a>.
+## 🧠 What I'm Working On
 
+- 🎙️ **Voice AI Agents** — Multilingual, low-latency agents with voice cloning, running on vLLM/Ray Serve via Plivo
+- 🤖 **Agentic Pipelines** — Multi-agent systems using LangGraph, CrewAI, and custom orchestration for real business workflows
+- 👁️ **Computer Vision** — Production CV systems for road inspection, ANPR, and real-time violation detection
+- 🔍 **Agentic RAG** — Retrieval pipelines with Qdrant and Text2SQL achieving 94%+ answer accuracy
+- 🧪 **LLM Evaluation & Fine-tuning** — LLM-as-a-Judge, self-training loops, and cost-efficient fine-tuning on GPT-4o-mini
 
-<!-- code gif-->
-<img align="center" alt="GIF" src="./code.gif" width="700" height="380" />
+---
 
-- 😄 Currently delving into the fascinating realms of Data Science.
+## 🛠️ Tech Stack
 
-- 💬 Feel free to engage him in discussions about Machine Learning, NLP, or anything related to the world of AI.
+**AI / LLM**
+`LangChain` `LangGraph` `CrewAI` `Autogen` `Agno` `RAG` `Fine-tuning` `Prompt Engineering` `n8n`
 
-- 📫 You can connect with him via email at prateekmaithil@hotmail.com
+**Models & Serving**
+`OpenAI` `Qwen` `vLLM` `Ray Serve` `NVIDIA Triton` `SpeechBrain` `Pyannote`
 
-- ⚡ Fun fact: Prateek love cats.
+**Computer Vision**
+`YOLOv8` `YOLOv12` `OpenCV` `TensorFlow` `PaddleOCR`
 
-<!-- About section: END -->
+**MLOps & Infra**
+`MLflow` `DVC` `Docker` `GitHub Actions` `GCP` `AWS EC2` `Google Cloud Run`
 
+**Languages & Backend**
+`Python` `SQL` `Bash` `FastAPI` `Flask`
 
-<!-- Connect section -->
+**Databases**
+`MySQL` `PostgreSQL` `Redis` `Qdrant` `BigQuery`
 
-<h2>Connect with him </h3>
-    <p>
-        <a href="https://www.linkedin.com/in/prateek-maithil-9bb07b214/"><img src="https://img.shields.io/badge/-Prateek%20Maithil%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=[www.linkedin.com/in/prateek-maithil-9bb07b214](https://www.linkedin.com/in/prateek-maithil-9bb07b214/)" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/yaarprateek
-/"><img src="https://img.shields.io/badge/-prateekfr-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/yaarprateek" alt="Twitter Badge"></a>
+**Monitoring**
+`LangSmith` `Langfuse`
 
+---
 
- <!-- Connect section: END -->
- 
-  <!-- GitHub section -->
+## 📌 Featured Projects
 
- ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
- 
- <div>
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prateekfr" alt="Gift's LangStat" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prateekfr&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
-</div>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Kidney Disease Classification](https://github.com/prateekfr) | End-to-end deep learning system for kidney tumor detection from CT scans using VGG16 (89% acc), with full MLOps pipeline | TensorFlow · MLflow · DVC · Docker · AWS |
+| [Informer TimeSeries Forecasting](https://github.com/prateekfr) | Reproduced Informer Transformer from scratch in PyTorch for long-sequence time series forecasting (15% accuracy gain on ETT datasets) | PyTorch · Transformers |
 
-**Expand to view**
-<details>
-  <summary><b>⚡GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=prateekfr&show_icons=true" />
-</details>
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
-   <a href="https://github.com/prateekfr/"><img alt="Gift Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=prateekfr&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-</details>
+---
 
-<!-- GitHub section: END -->
+## 🌱 Currently Learning
 
+- Advanced voice pipeline optimization (latency, RTF, concurrency)
+- Agent memory architectures — episodic, semantic, procedural
+- Scaling multi-agent systems for enterprise deployments
+- LLM grounding and hallucination reduction in production
 
+---
 
+## 🤝 Let's Connect
 
-<!-- THE END -->
+If you're building in the **AI agents, voice AI, or production ML** space — or just want to talk cats and music — I'm always up for a conversation.
 
+📬 **[LinkedIn](https://www.linkedin.com/in/prateekmaithil/)** | 🐦 **[Twitter/X](https://twitter.com/yaarprateek)** | 📧 **[prateekmaithil@hotmail.com](mailto:prateekmaithil1572@gmail.com)** | 🎵 **[Apple Music](https://music.apple.com/profile/prateeek?ls)**
 
-<!---
-prateekfr/prateekfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-- 👋 Hi, I’m @prateekfr
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+---
 
---->
+<p align="center">
+  <i>"Call it a feature rather than bug :)"</i>
+</p>
